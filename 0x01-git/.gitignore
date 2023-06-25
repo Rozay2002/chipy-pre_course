@@ -1,0 +1,8 @@
+# Exclude files ending with ~
+*~
+
+# Exclude the build directory
+build/
+
+# Exclude the node_modules directory
+node_modules/
